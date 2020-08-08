@@ -1,5 +1,5 @@
 # Обнулятор:
-'''css
+```
 *{
 	padding: 0;
 	margin: 0;
@@ -38,4 +38,4 @@ ul li{list-style: none;}
 img{vertical-align: top;}
 
 h1,h2,h3,h4,h5,h6{font-size: inherit; font-weight: 400;}
-'''
+```
